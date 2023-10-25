@@ -66,12 +66,12 @@ h1 {
 
 .texto-negro {
   color: black;
-  font-family: 'Rubik Dirt', cursive;
+  font-family: 'Markazi Text', serif;
 }
 
 .texto-blanco {
   color: white;
-  font-family: 'Rubik Dirt', cursive;
+  font-family: 'Markazi Text', serif;
 }
 
 /* Seccion Hero */
@@ -80,7 +80,7 @@ h1 {
   background-color: #efc3e6;
   min-height: 450px;
   text-align: center;
-  font-family: 'Rubik Dirt', cursive;
+  font-family: 'Markazi Text', serif;
 }
 
 .hero-principal {
@@ -108,7 +108,7 @@ h1 {
 .sobre-mi .contenedor {
   max-width: 600px;
   text-align: center;
-  font-family: 'Rubik Dirt', cursive;
+  font-family: 'Markazi Text', serif;
 }
 
 /* Experiencia */
@@ -226,7 +226,7 @@ h1 {
   color: black;
   font-size: 60px;
   margin: 10px;
-  font-family: 'Rubik Dirt', cursive;
+  font-family: 'Markazi Text', serif;
 }
 
 
@@ -266,7 +266,7 @@ h1 {
   max-width: 70%;
   font-size: 20px;
   text-align: center;
-  font-family: 'Rubik Dirt', cursive;
+  font-family: 'Markazi Text', serif;
 }
 
 .testimonio-info {
@@ -356,7 +356,7 @@ footer {
   font-size: 1.5rem;
   padding: 20px;
   margin-bottom: 30px;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Markazi Text', serif;
 }
 
 .iconos-redes-sociales a {
