@@ -48,7 +48,7 @@ h1 {
 
 .seccion-descripcion {
   font-size: 1.2rem;
-  color: #f15bb5;
+  color: #060606;
   font-family: 'Markazi Text', serif;
   justify-content: center;
   align-items: center;
@@ -129,7 +129,7 @@ h1 {
 }
 
 .experiencia .columna:hover {
-  color: rgb(237, 109, 203);
+  color: rgb(12, 12, 12);
   background-color: hsl(353, 97%, 73%);
 }
 
@@ -151,21 +151,19 @@ h1 {
  
 }
 .badge-text-bg-primary{
-  background-color: #f15bb5;
+  background-color: #070707;
 }
 
 .badges-contenedor {
   font-size: 20px ;
   font-weight: bold;
   margin: 10px 0;
- background-color: #f15bb5;
-  
 
 }
 
 .badge {
   margin: 5px;
-  background-color: #670c42;
+  background-color: #f4189c;
   
 }
 
@@ -351,12 +349,14 @@ footer {
   width: 80px;
   margin: 10px;
 }
-
-.footer-texto {
+footer-texto{
   font-size: 1.5rem;
   padding: 20px;
   margin-bottom: 30px;
   font-family: 'Markazi Text', serif;
+}
+.badge-text-bg-primary{
+  background-color: #f6e5ef;
 }
 
 .iconos-redes-sociales a {
@@ -367,24 +367,24 @@ footer {
   justify-content: center;
   padding: 2px;
   margin: 10px;
-  border: 2px solid rgb(95, 249, 6);
+  border: 2px solid rgb(129, 234, 24);
   border-radius: 50%;
   transition: all 0.2s ease-in;
 }
 
 .iconos-redes-sociales i {
-  color: rgb(67, 212, 19);
+  color: rgb(14, 15, 14);
   font-size: 1.5rem;
   transition: all 0.2s ease-in;
 }
 
 .iconos-redes-sociales a:hover {
   background-color: white;
-  border: 2px solid rgb(13, 110, 253);
+  border: 2px solid rgb(27, 159, 225);
 }
 
 .iconos-redes-sociales a:hover i {
-  color: black;
+  color: rgb(212, 35, 35);
 }
 
 .derechos-de-autor {
