@@ -3,7 +3,7 @@
 .navbar {
   padding: 2rem;
   background-color: #8eecf5 ;
-  font-family: Arial,sans-serif;
+  font-family: 'Playpen Sans', cursive;
 
 }
 
@@ -12,6 +12,7 @@
   justify-content: space-between; 
   
 }
+
 
 /* Estilos generales */
 
@@ -25,38 +26,38 @@ section {
 
 h1 {
   font-size: 2.5rem;
-  font-family: 'Rubik Dirt', cursive;
+  font-family: 'Playpen Sans', cursive;
 }
 
 .seccion-oscura {
   color: #0b0b0b;
   background-color: #d0f4de;
-  font-family: 'Rubik Dirt', cursive;
+  font-family: 'Playpen Sans', cursive;
 }
 
 .seccion-clara {
   color: black;
   background-color: #ffcfd2;
-  font-family: 'Rubik Dirt', cursive;
+  font-family: 'Playpen Sans', cursive;
 }
 
 .seccion-titulo {
   font-size: 2rem;
   padding: 15px 0;
-  font-family: 'Rubik Dirt', cursive;
+  font-family: 'Playpen Sans', cursive;
 }
 
 .seccion-descripcion {
   font-size: 1.2rem;
   color: #060606;
-  font-family: 'Markazi Text', serif;
+  font-family: 'Playpen Sans', cursive;
   justify-content: center;
   align-items: center;
 }
 
 .seccion-texto {
   font-size: 1.2rem;
-  font-family: 'Markazi Text', serif;
+  font-family: 'Playpen Sans', cursive;
 }
 
 .btn-info {
@@ -66,12 +67,12 @@ h1 {
 
 .texto-negro {
   color: black;
-  font-family: 'Markazi Text', serif;
+  font-family: 'Playpen Sans', cursive;
 }
 
 .texto-blanco {
   color: white;
-  font-family: 'Markazi Text', serif;
+  font-family: 'Playpen Sans', cursive;
 }
 
 /* Seccion Hero */
@@ -80,7 +81,7 @@ h1 {
   background-color: #efc3e6;
   min-height: 450px;
   text-align: center;
-  font-family: 'Markazi Text', serif;
+  font-family: 'Playpen Sans', cursive;
 }
 
 .hero-principal {
@@ -108,7 +109,7 @@ h1 {
 .sobre-mi .contenedor {
   max-width: 600px;
   text-align: center;
-  font-family: 'Markazi Text', serif;
+  font-family: 'Playpen Sans', cursive;
 }
 
 /* Experiencia */
@@ -135,7 +136,7 @@ h1 {
 
 .experiencia i {
   font-size: 2.5rem;
-  color: #0ce62d;
+  color: #0c0c0c;
   background-color: #f1f1f9;
   padding: 8px 19px;
   border-radius: 50%;
@@ -151,7 +152,7 @@ h1 {
  
 }
 .badge-text-bg-primary{
-  background-color: #070707;
+  background-color: #f7f3f3;
 }
 
 .badges-contenedor {
@@ -224,7 +225,7 @@ h1 {
   color: black;
   font-size: 60px;
   margin: 10px;
-  font-family: 'Markazi Text', serif;
+  font-family: 'Playpen Sans', cursive;
 }
 
 
@@ -264,7 +265,7 @@ h1 {
   max-width: 70%;
   font-size: 20px;
   text-align: center;
-  font-family: 'Markazi Text', serif;
+  font-family: 'Playpen Sans', cursive;
 }
 
 .testimonio-info {
@@ -353,7 +354,7 @@ footer-texto{
   font-size: 1.5rem;
   padding: 20px;
   margin-bottom: 30px;
-  font-family: 'Markazi Text', serif;
+  font-family: 'Playpen Sans', cursive;
 }
 .badge-text-bg-primary{
   background-color: #f6e5ef;
@@ -367,7 +368,7 @@ footer-texto{
   justify-content: center;
   padding: 2px;
   margin: 10px;
-  border: 2px solid rgb(129, 234, 24);
+  border: 2px solid rgb(13, 13, 13);
   border-radius: 50%;
   transition: all 0.2s ease-in;
 }
@@ -384,7 +385,7 @@ footer-texto{
 }
 
 .iconos-redes-sociales a:hover i {
-  color: rgb(212, 35, 35);
+  color: rgb(16, 16, 16);
 }
 
 .derechos-de-autor {
